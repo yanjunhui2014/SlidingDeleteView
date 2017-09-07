@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="translate">#00000000</color>
+    <color name="translate_half">#50000000</color>
+
+    <color name="white">#fefefe</color>
+    <color name="black">#000000</color>
+    <color name="black_dft">#3c3c3c</color>
+    <color name="gray_dft">#888888</color>
+    <color name="red_dft">#f23030</color>
+    <color name="red_deep">#822418</color>
+
+</resources>
