@@ -2,7 +2,7 @@
 Android简单实现滑动删除Item
 
 效果如图：
-![image](https://github.com/yanjunhui2014/SlidingDeleteView/tree/master/gif/滑动删除.gif)
+![image](https://github.com/yanjunhui2014/SlidingDeleteView/tree/master/gif/slidingdelete.gif)
 
 需求：
 要做出类似QQ左滑删除的效果。
